@@ -34,6 +34,12 @@ produce events:
 make app__producer
 ```
 
+consume events:
+
+```bash
+make app__consumer
+```
+
 ## Other Information
 
 [3musketeers](https://3musketeers.io/)
