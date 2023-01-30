@@ -28,6 +28,12 @@ list topics:
 kafka-topics --list --bootstrap-server localhost:9092
 ```
 
+produce events:
+
+```bash
+make app__producer
+```
+
 ## Other Information
 
 [3musketeers](https://3musketeers.io/)
